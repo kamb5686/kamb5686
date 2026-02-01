@@ -1,16 +1,23 @@
-## Hi there 👋
+# Kam B
 
-<!--
-**kamb5686/kamb5686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Deeptech Architect building practical systems at the intersection of **agentic AI**, **automation**, and **reliable infrastructure**.
 
-Here are some ideas to get you started:
+## What I’m focused on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Agent platforms & automation** (OpenClaw, tool orchestration, browser automation)
+- **Memory + verification layers** for agents (fast recall, source-backed checking)
+- **Production reliability** (observability, fail-safe defaults, reproducibility)
+
+## Featured
+
+- **ClawMemory** — SEVA-powered assist layer for OpenClaw: memory (episodic + semantic), verification, and quality modes.
+  - Repo: <https://github.com/kamb5686/ClawMemory>
+
+## Current work style
+
+- Prefer **shipping** and iterating.
+- Bias toward **simple defaults**, **opt-in power**, and **clear failure modes**.
+
+## Contact
+
+- GitHub: <https://github.com/kamb5686>
