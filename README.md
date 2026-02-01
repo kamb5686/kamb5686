@@ -1,23 +1,22 @@
 # Kam B
 
-AI & Deeptech Architect building practical systems at the intersection of **agentic AI**, **automation**, and **reliable infrastructure**.
+DeepTech Architect working on **agentic AI**, **memory/verification layers**, and **production-grade automation**.
 
-## What I’m focused on
+## Focus
 
-- **Agent platforms & automation** (OpenClaw, tool orchestration, browser automation)
-- **Memory + verification layers** for agents (fast recall, source-backed checking)
-- **Production reliability** (observability, fail-safe defaults, reproducibility)
+- **Algorithms & systems**: practical, measurable, reliability-first
+- **Agent platforms**: orchestration, tool use, browser automation
+- **Memory + verification**: fast recall, source-backed checking, quality modes
+- **Infrastructure**: observability, reproducibility, fail-safe defaults
 
 ## Featured
 
-- **ClawMemory** — SEVA-powered assist layer for OpenClaw: memory (episodic + semantic), verification, and quality modes.
-  - Repo: <https://github.com/kamb5686/ClawMemory>
+- **ClawMemory** — SEVA-powered assist layer for OpenClaw (memory + verification + modes).
+  - <https://github.com/kamb5686/ClawMemory>
 
-## Current work style
+## Principles
 
-- Prefer **shipping** and iterating.
-- Bias toward **simple defaults**, **opt-in power**, and **clear failure modes**.
+- Ship small, iterate fast.
+- Defaults should be safe; power should be opt-in.
+- Prefer evidence over vibes.
 
-## Contact
-
-- GitHub: <https://github.com/kamb5686>
